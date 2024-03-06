@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../SCSS/style.scss"
+	],
+	"sourcesContent": [
+		"$preto: #000;\r\n$rosa: #ff0055;\r\n\r\ndiv{\r\n    background: $preto;\r\n    a{\r\n        color: $rosa\r\n    }\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAGA,AAAA,GAAG,CAAA;EACC,UAAU,EAJN,IAAI;CAQX;;;AALD,AAEI,GAFD,CAEC,CAAC,CAAA;EACG,KAAK,EALN,OAAO;CAMT"
+}
